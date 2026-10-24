@@ -1,6 +1,6 @@
 # Ruslan Barysiuk — Senior Flutter Developer (iOS, Android)
 
-> Senior Flutter and mobile developer with 5 years of commercial experience: cross-platform iOS and Android apps in Flutter and Dart with native Swift and Kotlin integrations, 6 apps on the App Store and Google Play. Based in Bangkok, Thailand (GMT+7), works remotely, open to full-time, part-time and contract roles. Also written as Руслан Борисюк (Russian, Ukrainian) and Руслан Барысюк (Belarusian).
+> Senior Flutter and mobile developer with 5 years of commercial experience: cross-platform iOS and Android apps in Flutter and Dart with native Swift and Kotlin integrations, 6 apps on the App Store and Google Play. Based in Bangkok, Thailand (GMT+7), works remotely, open to full-time, part-time and contract roles. Also written as Руслан Борисюк (Russian, Ukrainian, Kazakh) and Руслан Барысюк (Belarusian).
 
 - Open to: Senior Flutter Developer, Mobile Developer (Flutter) and Flutter Lead roles; remote; full-time, part-time (hourly) or contract
 - Strengths: subscriptions and in-app purchases (StoreKit 2, Google Play Billing, RevenueCat, server-side validation); health data (HealthKit, Health Connect, watchOS prototype); real-time video (WebRTC, LiveKit); camera, computer vision, on-device ML and OCR (ONNX Runtime, OpenCV, Tesseract); code audits and taking stalled projects to release; AI-native development (Claude Code, Cursor, MCP)
@@ -14,6 +14,7 @@
 - [Резюме на русском](https://munem91.github.io/barysiuk_ruslan_resume/ru.html)
 - [Резюме українською](https://munem91.github.io/barysiuk_ruslan_resume/uk.html)
 - [Рэзюмэ па-беларуску](https://munem91.github.io/barysiuk_ruslan_resume/be.html)
+- [Түйіндеме қазақша](https://munem91.github.io/barysiuk_ruslan_resume/kk.html)
 - [Full resume as plain text](https://munem91.github.io/barysiuk_ruslan_resume/llms-full.txt): every role and project, ready to quote
 - [PDF resume, English](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_EN_Light.pdf)
 
